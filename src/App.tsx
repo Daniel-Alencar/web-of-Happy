@@ -1,9 +1,8 @@
 import React from 'react';
 
 import './styles/global.css';
-import './styles/pages/landing.css';
 
-import logoImg from './images/Logo.svg';
+import Routes from './routes';
 // Todas as importações serão feitas através do arquivo JS (não são importadas no HTML direto)
 
 
@@ -23,7 +22,7 @@ import logoImg from './images/Logo.svg';
 
 
 
-// interface somente no typescript
+// interface somente no typescript (para identificar melhor os tipos dos parâmetros)
 /*
 interface Nomepropriedades {
   text: string;
@@ -36,25 +35,7 @@ function Name(propriedades: Nomepropriedades) {
 
 function App() {
   return ( // className funciona da mesma forma que uma class (não pode ser class porque é uma palavra reservada do JS)
-    <div id="page-landing">
-      <div className="content-wrapper">
-        <img src={logoImg} alt="Happy"/>
-
-        <main>
-          <h1>Leve felicidade para o mundo</h1>
-          <p>Visite orfanatos e mude o dia de muitas crianças.</p>
-        </main>
-
-        <div className="location">
-          <strong>Rio do Sul</strong>
-          <span>Santa catarina</span>
-        </div>
-
-        <a href="" className="enter-app">
-          J
-        </a>
-      </div>
-    </div>
+    <Routes/>
   );
 }
 
