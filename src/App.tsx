@@ -1,6 +1,7 @@
 import React from 'react';
 
 import './styles/global.css';
+import 'leaflet/dist/leaflet.css';
 
 import Routes from './routes';
 // Todas as importações serão feitas através do arquivo JS (não são importadas no HTML direto)
