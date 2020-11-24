@@ -93,12 +93,16 @@ form.create-orphanage-form .input-block .images-container {
   grid-gap: 16px;
 }
 
-form.create-orphanage-form .input-block .new-image {
+form.create-orphanage-form .input-block .images-container .new-image {
   height: 96px;
   background: #F5F8FA;
   border: 1px dashed #96D2F0;
   border-radius: 20px;
   cursor: pointer;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 form.create-orphanage-form .input-block .button-select {
@@ -112,6 +116,10 @@ form.create-orphanage-form .input-block .button-select button {
   border: 1px solid #D3E2E5;
   color: #5C8599;
   cursor: pointer;
+}
+
+form.create-orphanage-form .input-block input[type=file] {
+  display: none;
 }
 
 form.create-orphanage-form .input-block .button-select button.active {
