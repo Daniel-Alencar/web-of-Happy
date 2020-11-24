@@ -18,7 +18,7 @@ interface Orphanage {
   about: string;
   instructions: string;
   opening_hours: string;
-  opening_on_weekends: string;
+  opening_on_weekends: boolean;
   images: Array<{
     url: string;
     id: number;
