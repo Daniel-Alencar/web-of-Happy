@@ -15,7 +15,7 @@
   <a href="https://github.com/Daniel-Alencar/web-of-Happy/stargazers">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/Daniel-Alencar/web-of-Happy?logo=github&style=flat-square">
   </a>
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Daniel-Alencar?style=flat-square">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Daniel-Alencar?logo=github&style=flat-square">
 </p>
 
 <h1 align="center">
