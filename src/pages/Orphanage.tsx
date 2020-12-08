@@ -17,7 +17,7 @@ interface Orphanage {
   about: string;
   instructions: string;
   opening_hours: string;
-  opening_on_weekends: string;
+  open_on_weekends: string;
   images: Array<{
     url: string;
     id: number;
@@ -110,19 +110,21 @@ export default function Orphanage() {
                 {orphanage.opening_hours}
               </div>
               
-              {orphanage.opening_on_weekends ? (
+              {
+              orphanage.open_on_weekends ? (
                 <div className="open-on-weekends">
                   <FiInfo size={32} color="#39CC83" />
-                  Atendemos <br />
+                  Atendemos <br/>
                   fim de semana
                 </div>
               ) : (
                 <div className="open-on-weekends dont-open">
                   <FiInfo size={32} color="#FF669D" />
-                  Não atendemos <br />
+                  Não atendemos <br/>
                   fim de semana
                 </div>
-              ) }
+              ) 
+              }
             </div>
           </div>
         </div>
