@@ -1,0 +1,2 @@
+<h1 align="center">Happy</h1>
+## Este projeto foi feito através da NLW3 da Rocketseat, o qual visa facilitar a busca por instituições de abrigo para crianças e adolescentes em situações de vulnerabilidade
