@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<h1 align="center"/>
+<h1 align="center">
   Happy
 </h1>
 
