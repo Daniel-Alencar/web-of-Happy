@@ -12,7 +12,7 @@ import '../styles/pages/create-orphanage.css';
 
 
 
-export default function OrphanagesMap() {
+export default function CreateOrphanage() {
   const history = useHistory();
 
   const [position, setPosition] = useState({ latitude: 0, longitude: 0 });

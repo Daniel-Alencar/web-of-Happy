@@ -12,9 +12,9 @@ export default function() {
             <img src={mapMarkerImg} alt="Happy" />
 
             <footer>
-            <button type="button" onClick={goBack}>
-                <FiArrowLeft size={24} color="#FFF" />
-            </button>
+                <button type="button" onClick={goBack}>
+                    <FiArrowLeft size={24} color="#FFF" />
+                </button>
             </footer>
         </aside>
     );
