@@ -27,15 +27,14 @@
  <a href="#objetivo">Objetivo</a> •
  <a href="#layout">Layout</a> • 
  <a href="#features">Features</a> • 
+ <a href="#pré-requisitos">Pré-requisitos</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licença">Licença</a> • 
  <a href="#autor">Autor</a>
 </p>
 
 ### Objetivo
 
-<p align="center"> Este projeto foi feito através da NLW3 da Rocketseat, o qual visa facilitar a busca por instituições de abrigo para crianças e adolescentes em situações de vulnerabilidade</p>
+<p align="center"> Este projeto foi feito através da NLW3 da Rocketseat, o qual visa facilitar a busca por instituições de abrigo para crianças e adolescentes em situações de vulnerabilidade.</p>
 
 ### Layout
 
@@ -55,8 +54,15 @@
 - [x] Cadastro de novo orfanato
 - [x] Detalhes do orfanato
 - [x] Configurar o README
-- [ ] Visual responsivo para mais telas
+- [ ] Visual responsivo para telas menores
 - [ ] Substituição do mapa do Leaflet por o mapa do google maps
+- [ ] Acesso restrito
+- [ ] Recuperação de senhas
+- [ ] Novo modo de cadastro dos orfanatos (com confirmação do administrador da aplicação)
+- [ ] Localização real do usuário
+- [ ] Cadastro em múltiplas etapas
+- [ ] Logout da aplicação
+- [ ] Deploy da aplicação
 
 <p align="center">Mandem sugestões de novas features :blush:<p/>
 
@@ -64,8 +70,8 @@
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) ou [Yarn](https://yarnpkg.com/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
 ### Rodando o Back End (servidor)
 
@@ -75,13 +81,10 @@ Vá para o [repositório do servidor](https://github.com/Daniel-Alencar/backend-
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/tgmarinho/nlw1>
+$ git clone <https://github.com/Daniel-Alencar/web-of-Happy>
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd web-of-Happy
-
-# Vá para a pasta server
-$ cd server
 
 # Instale as dependências
 $ npm install
@@ -89,29 +92,30 @@ ou
 $ yarn install
 
 # Execute a aplicação
+$ npm start
+ou
 $ yarn start
 
 # O servidor inciará na porta:3000 (acesse <http://localhost:3000>)
 ```
 
-### 🛠 Tecnologias
+### Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Node.js](https://nodejs.org/en/)
+- [Yarn](https://yarnpkg.com/)
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ### Autor
 ---
-
-
 <img 
     style="border-radius: 50%;"
     src="https://avatars2.githubusercontent.com/u/51214434?s=400&u=439cd150f8dbf2706452ce6a362992e077285793&v=4"
     width="100px;"
-    alt="Daniel Alencar"/>
-<br/>
+    alt="Daniel Alencar"
+/>
 Feito por Daniel Alencar 👋🏽 Entre em contato!
 
 [![Instagram Badge](https://img.shields.io/badge/-@daniel_alencar_-de2099?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/Daniel746/)](https://www.instagram.com/daniel_alencar_/) [![Linkedin Badge](https://img.shields.io/badge/-Daniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Daniel746/)](https://www.linkedin.com/in/Daniel746/) [![Gmail Badge](https://img.shields.io/badge/-danielalencar746@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielalencar746@gmail.com)](mailto:danielalencar746@gmail.com)
