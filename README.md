@@ -22,12 +22,13 @@
   Happy
 </h1>
 
-
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
  <a href="#layout">Layout</a> • 
  <a href="#features">Features</a> • 
  <a href="#pré-requisitos">Pré-requisitos</a> • 
+ <a href="#rodando-o-back-end">Back-end (servidor)</a> • 
+ <a href="#rodando-a-aplicação-web">Aplicação web</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#autor">Autor</a>
 </p>
@@ -38,14 +39,14 @@
 
 ### Layout
 
-<h1 align="center">
-  <img width="450" alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/Happy-Banner.png" />
-  <img width="450" alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/choice-orphanage.png" />
-</h1>
-<h1 align="center">
-  <img width="450" alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/create-orphanage.png" />
-  <img width="450" alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/Orphanage-details.png" />
-</h1>
+<p align="center">
+  <h1 style="display: flex;">
+    <img width="470" alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/Happy-Banner.png" />
+    <img width="470" alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/choice-orphanage.png" />
+    <img width="470" alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/create-orphanage.png" />
+    <img width="470" alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/Orphanage-details.png" />
+  </h1>
+</p>
 
 ### Features
 
@@ -73,11 +74,11 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) ou [Yarn](https://yarnpkg.com/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
-### Rodando o Back End (servidor)
+### Rodando o back end
 
 Vá para o [repositório do servidor](https://github.com/Daniel-Alencar/backend-of-Happy) e siga os passos amostrados no README.
 
-### Rodando a aplicação web (servidor)
+### Rodando a aplicação web
 
 ```bash
 # Clone este repositório
