@@ -1,13 +1,16 @@
-<p align="center">
+<h1 align="center">
+  Happy
+</h1>
 
+<p align="center">
   <img src="https://img.shields.io/static/v1?label=status&message=adicionando+novas+features&color=d4f002&style=flat-square&logo=dev">
 
   <a href="https://github.com/Daniel-Alencar/web-of-Happy">
     <img alt="GitHub" src="https://img.shields.io/github/license/Daniel-Alencar/web-of-Happy?color=6cb810&style=flat-square">
   </a>
+  
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Daniel-Alencar/web-of-Happy?logo=git&style=flat-square">
   
-
   <a href="https://github.com/Daniel-Alencar/web-of-Happy/network">
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/Daniel-Alencar/web-of-Happy?logo=github&style=flat-square">
   </a>
@@ -15,12 +18,9 @@
   <a href="https://github.com/Daniel-Alencar/web-of-Happy/stargazers">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/Daniel-Alencar/web-of-Happy?logo=github&style=flat-square">
   </a>
+  
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/Daniel-Alencar?logo=github&style=flat-square">
 </p>
-
-<h1 align="center">
-  Happy
-</h1>
 
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
@@ -110,7 +110,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [TypeScript](https://www.typescriptlang.org/)
 
 ### Autor
----
+
 <img 
     style="border-radius: 50%;"
     src="https://avatars2.githubusercontent.com/u/51214434?s=400&u=439cd150f8dbf2706452ce6a362992e077285793&v=4"
@@ -118,6 +118,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
     alt="Daniel Alencar"
 />
 
-Feito por Daniel Alencar 👋🏽 Entre em contato!
+Feito por Daniel Alencar! 
+Entre em contato!
 
 [![Instagram Badge](https://img.shields.io/badge/-@daniel_alencar_-de2099?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/Daniel746/)](https://www.instagram.com/daniel_alencar_/) [![Linkedin Badge](https://img.shields.io/badge/-Daniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Daniel746/)](https://www.linkedin.com/in/Daniel746/) [![Gmail Badge](https://img.shields.io/badge/-danielalencar746@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielalencar746@gmail.com)](mailto:danielalencar746@gmail.com)
