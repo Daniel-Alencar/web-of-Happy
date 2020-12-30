@@ -82,7 +82,7 @@ Vá para o [repositório do servidor](https://github.com/Daniel-Alencar/backend-
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/Daniel-Alencar/web-of-Happy>
+$ git clone https://github.com/Daniel-Alencar/web-of-Happy
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd web-of-Happy
