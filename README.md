@@ -112,12 +112,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
     width="100px;"
     alt="Daniel Alencar"/>
 <br/>
-<sub><b>Daniel Alencar</b></sub>
-
 Feito por Daniel Alencar 👋🏽 Entre em contato!
 
-[![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://www.instagram.com/daniel_alencar_/)
-
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/Daniel746/) 
-
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@daniel_alencar_-de2099?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/Daniel746/)](https://www.instagram.com/daniel_alencar_/) [![Linkedin Badge](https://img.shields.io/badge/-Daniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Daniel746/)](https://www.linkedin.com/in/Daniel746/) [![Gmail Badge](https://img.shields.io/badge/-danielalencar746@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielalencar746@gmail.com)](mailto:danielalencar746@gmail.com)
