@@ -39,23 +39,25 @@
 ### Layout
 
 <h1 align="center">
-  <img width="400" alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/Happy-Banner.png" />
-  <img width="400" alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/choice-orphanage.png" />
+  <img width="450" alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/Happy-Banner.png" />
+  <img width="450" alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/choice-orphanage.png" />
 </h1>
 <h1 align="center">
-  <img width="400" alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/create-orphanage.png" />
-  <img width="400" alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/Orphanage-details.png" />
+  <img width="450" alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/create-orphanage.png" />
+  <img width="450" alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/Orphanage-details.png" />
 </h1>
-<h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/Orphanage-details.png" />
-</h1>
-
 
 ### Features
 
-- [x] Cadastro de usuário
-- [x] Cadastro de cliente
-- [ ] Cadastro de produtos
+- [x] Página inicial do Happy
+- [x] Visualização dos orfanatos em um mapa
+- [x] Cadastro de novo orfanato
+- [x] Detalhes do orfanato
+- [x] Configurar o README
+- [ ] Visual responsivo para mais telas
+- [ ] Substituição do mapa do Leaflet por o mapa do google maps
+
+<p align="center">Mandem sugestões de novas features :blush:<p/>
 
 
 ### Pré-requisitos
