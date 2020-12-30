@@ -26,6 +26,7 @@
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
  <a href="#layout">Layout</a> • 
+ <a href="#features">Features</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#contribuicao">Contribuição</a> • 
  <a href="#licença">Licença</a> • 
@@ -66,35 +67,39 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-### 🎲 Rodando o Back End (servidor)
+### Rodando o Back End (servidor)
+
+Vá para o [repositório do servidor](https://github.com/Daniel-Alencar/backend-of-Happy) e siga os passos amostrados no README.
+
+### Rodando a aplicação web (servidor)
 
 ```bash
 # Clone este repositório
 $ git clone <https://github.com/tgmarinho/nlw1>
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd nlw1
+$ cd web-of-Happy
 
 # Vá para a pasta server
 $ cd server
 
 # Instale as dependências
 $ npm install
+ou
+$ yarn install
 
-# Execute a aplicação em modo de desenvolvimento
-$ npm run dev:server
+# Execute a aplicação
+$ yarn start
 
-# O servidor inciará na porta:3333 - acesse <http://localhost:3333>
+# O servidor inciará na porta:3000 (acesse <http://localhost:3000>)
 ```
 
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Expo](https://expo.io/)
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ### Autor
@@ -114,11 +119,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Feito com ❤️ por Thiago Marinho 👋🏽 Entre em contato!
 
-[![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)]
-(https://www.instagram.com/daniel_alencar_/)
+[![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://www.instagram.com/daniel_alencar_/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)]
-(https://www.linkedin.com/in/Daniel746/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/Daniel746/) 
 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)]
-(mailto:tgmarinho@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
