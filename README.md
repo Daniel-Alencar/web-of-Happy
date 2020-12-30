@@ -41,10 +41,10 @@
 
 <p align="center">
   <h1 style="display: flex;">
-    <img width="470" alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/Happy-Banner.png" />
-    <img width="470" alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/choice-orphanage.png" />
-    <img width="470" alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/create-orphanage.png" />
-    <img width="470" alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/Orphanage-details.png" />
+    <img width="400" alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/Happy-Banner.png" />
+    <img width="400" alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/choice-orphanage.png" />
+    <img width="400" alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/create-orphanage.png" />
+    <img width="400" alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/Orphanage-details.png" />
   </h1>
 </p>
 
@@ -52,7 +52,7 @@
 
 - [x] Página inicial do Happy
 - [x] Visualização dos orfanatos em um mapa
-- [x] Cadastro de novo orfanato
+- [x] Cadastro de orfanato
 - [x] Detalhes do orfanato
 - [x] Configurar o README
 - [ ] Visual responsivo para telas menores
@@ -117,6 +117,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
     width="100px;"
     alt="Daniel Alencar"
 />
+
 Feito por Daniel Alencar 👋🏽 Entre em contato!
 
 [![Instagram Badge](https://img.shields.io/badge/-@daniel_alencar_-de2099?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/Daniel746/)](https://www.instagram.com/daniel_alencar_/) [![Linkedin Badge](https://img.shields.io/badge/-Daniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Daniel746/)](https://www.linkedin.com/in/Daniel746/) [![Gmail Badge](https://img.shields.io/badge/-danielalencar746@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielalencar746@gmail.com)](mailto:danielalencar746@gmail.com)
