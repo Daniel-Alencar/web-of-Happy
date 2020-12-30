@@ -25,7 +25,7 @@
 
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
- <a href="#roadmap">Roadmap</a> • 
+ <a href="#layout">Layout</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#contribuicao">Contribuição</a> • 
  <a href="#licença">Licença</a> • 
@@ -36,15 +36,15 @@
 
 <p align="center"> Este projeto foi feito através da NLW3 da Rocketseat, o qual visa facilitar a busca por instituições de abrigo para crianças e adolescentes em situações de vulnerabilidade</p>
 
+### Layout
 
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/Happy-Banner.png" />
+  <img width="400" alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/Happy-Banner.png" />
+  <img width="400" alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/choice-orphanage.png" />
 </h1>
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/choice-orphanage.png" />
-</h1>
-<h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/create-orphanage.png" />
+  <img width="400" alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/create-orphanage.png" />
+  <img width="400" alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/Orphanage-details.png" />
 </h1>
 <h1 align="center">
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/Orphanage-details.png" />
